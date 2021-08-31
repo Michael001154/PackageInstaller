@@ -11,3 +11,4 @@ I use virtual machines a lot and got tired of typing the commands needed to setu
 This script currently only supports Debian.
 # Any future updates?
 Not at the moment as i am swamped with work i may later on add exception handling and checking for supported platform and that modules are installed along with supporting other platforms.
+# How do i contact you? Read my profile readme.md for Discord/Twitter or my bio for Twitter.
