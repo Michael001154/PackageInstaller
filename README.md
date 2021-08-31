@@ -1,5 +1,7 @@
 # PackageInstaller
 Quick dirty script to install Debian Python3 Pip package and modules.
+# Anything not included? 
+This script assumes that you have not removed python3 from your computer so it does not download it.
 # What does this script do?
 The script installs Python3 Pip and installs requests and bs4(BeautifulSoup).
 # Why did you write this script?
